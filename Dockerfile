@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/metrics-server/metrics-server:v0.4.3
+FROM docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel1
